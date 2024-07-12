@@ -6,6 +6,8 @@
 *.lo
 *.o
 *.obj
+.TakrorlashOperatori/TakrorlashOperatori.cbp
+.TakrorlashOperatori/TakrorlashOperatori.layout
 
 # Precompiled Headers
 *.gch
